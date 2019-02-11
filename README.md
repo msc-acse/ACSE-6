@@ -17,14 +17,14 @@ On successful completion of this module, students will be able to:
 3.	Apply a range of parallel programming models. 
 
 ## Team
-- Adriana Paluszny (Introduction to parallel programming and OpenMP, C++) - Four classes
-- Stephen Neethling (MPI)
+- Dr Adriana Paluszny - Royal Society Research Fellow - computational scientist and C++ devotee (Introduction to parallel programming and OpenMP, C++) - Four classes
+- Prof Stephen Neethling - Professor of Minerals Processing - Remaining classes, focused on MPI
 
 ## Lectures
-1. Introduction to parallel programming TBD (Adriana Paluszny)
-2. OpenMP TBD (Adriana Paluszny)
-3. OpenMP TBD (Adriana Paluszny)
-4. OpenMP TBD (Adriana Paluszny)
+1. 25/2 Introduction to parallel programming TBD (Adriana Paluszny)
+2. 26/2 OpenMP TBD (Adriana Paluszny)
+3. 28/2 OpenMP TBD (Adriana Paluszny)
+4. 1/3 OpenMP TBD (Adriana Paluszny)
 5. MPI TBD (Stephen Neethling)
 6. MPI TBD (Stephen Neethling)
 7. MPI TBD (Stephen Neethling)
