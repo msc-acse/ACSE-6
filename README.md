@@ -18,18 +18,18 @@ On successful completion of this module, students will be able to:
 - Prof Stephen Neethling - Professor of Minerals Processing - Remaining classes, focused on MPI
 
 ## Lectures
-1. 25/2 Introduction to parallel programming TBD (Adriana Paluszny)
-2. 26/2 OpenMP TBD (Adriana Paluszny)
-3. 28/2 OpenMP TBD (Adriana Paluszny)
-4. 1/3 OpenMP TBD (Adriana Paluszny)
-5. MPI TBD (Stephen Neethling)
-6. MPI TBD (Stephen Neethling)
-7. MPI TBD (Stephen Neethling)
-8. MPI TBD (Stephen Neethling)
-9. MPI TBD (Stephen Neethling)
-10. MPI TBD (Stephen Neethling)
-11. MPI TBD (Stephen Neethling)
-12. MPI TBD (Stephen Neethling)
+1. 25/2 Introduction to parallel programming (Adriana Paluszny)
+2. 26/2 OpenMP (Adriana Paluszny)
+3. 28/2 OpenMP (Adriana Paluszny)
+4. 1/3 OpenMP (Adriana Paluszny)
+5. MPI (Stephen Neethling)
+6. MPI (Stephen Neethling)
+7. MPI (Stephen Neethling)
+8. MPI (Stephen Neethling)
+9. MPI (Stephen Neethling)
+10. MPI (Stephen Neethling)
+11. MPI (Stephen Neethling)
+12. MPI (Stephen Neethling)
 
 ## Assessment
 Three equally weighted Assignments.
