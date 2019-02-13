@@ -1,8 +1,5 @@
 # ACSE-6: Patterns for parallel programming
 
-## Getting Started
-TBD
-
 ## Description
 The module will introduce the basic concepts of parallel programming to students with experience in higher-level programming languages, such as C++. Students will be taught how to identify different types of concurrency in various problem domains and map it to the appropriate parallelisation strategy, as well as how to reason about scalability and parallel efficiency. Students will learn the basic concepts of task parallelism and data parallelism, as well as common concepts such as the master-worker paradigm, domain-decomposition, and load-balancing strategies.
 
