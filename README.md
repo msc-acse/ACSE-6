@@ -33,7 +33,7 @@ On successful completion of this module, students will be able to:
 
 ## Assessment
 Three equally weighted Assignments:
-- Assignment 1: due March 4th 
+- Assignment 1: [Assignment1](ACSE6-Assignment1.pdf) due March 4th ⚡️⚡️🤓
 - Assignment 2: due March 11th
 - Assignment 3: due March 18th
 
