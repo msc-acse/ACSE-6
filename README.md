@@ -32,4 +32,8 @@ On successful completion of this module, students will be able to:
 12. MPI (Stephen Neethling)
 
 ## Assessment
-Three equally weighted Assignments.
+Three equally weighted Assignments:
+- Assignment 1: due March 4th 
+- Assignment 2: due March 11th
+- Assignment 3: due March 18th
+
