@@ -18,7 +18,7 @@ On successful completion of this module, students will be able to:
 - Prof Stephen Neethling - Professor of Minerals Processing - Remaining classes, focused on MPI
 
 ## Lectures
-1. 25/2 Introduction to parallel programming [Slides1](ACSE6-Lecture1.pdf) (Adriana Paluszny) 
+1. 25/2 Introduction to parallel programming [Slides1](ACSE6-Lecture1.pdf) [Code1](1main.cpp) (Adriana Paluszny) 
 2. 26/2 OpenMP (Adriana Paluszny)
 3. 28/2 OpenMP (Adriana Paluszny)
 4. 1/3 OpenMP (Adriana Paluszny)
