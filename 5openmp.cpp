@@ -1,11 +1,10 @@
 #include <iostream>
 #include <vector>
 #include <omp.h>
-#include <fstream>
 
 
 
-int sssmain()
+int main()
 {
 	const int N(100);
 
