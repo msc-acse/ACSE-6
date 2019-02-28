@@ -1,5 +1,8 @@
 # ACSE-6: Patterns for parallel programming
 
+## Getting started
+Please notice that MS Visual Studio Community 2017 only offers OpenMP 2.0, which will restrict the type of examples that you can run. If you would like to run on OpenMP 5.0, we recommend you to install the Intel C++ compiler 18 (free for students) that supports OpenMP 5.0.
+
 ## Description
 The module will introduce the basic concepts of parallel programming to students with experience in higher-level programming languages, such as C++. Students will be taught how to identify different types of concurrency in various problem domains and map it to the appropriate parallelisation strategy, as well as how to reason about scalability and parallel efficiency. Students will learn the basic concepts of task parallelism and data parallelism, as well as common concepts such as the master-worker paradigm, domain-decomposition, and load-balancing strategies.
 
