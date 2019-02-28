@@ -8,7 +8,7 @@ The module will introduce the basic concepts of parallel programming to students
 
 The module will teach students basic implementation strategies based on shared-memory parallelism and the message-passing paradigm. Particular attention will be paid to the design of parallel data structures and their use in the context of scientific programming. Students will thus gain a basic understanding of scalable parallel solvers and the different parallelisation paradigms involved in complex inversion and optimisation algorithms.
 
-The teaching activities will be complemented with a set of individual mini-projects, each teaching the implementation of a particular parallel programming paradigm in an applied scientific context. The exercises will primarily based on Python with a small C/C++ component for exercises involving OpenMP threading.
+The teaching activities will be complemented with a set of individual mini-projects, each teaching the implementation of a particular parallel programming paradigm in an applied scientific context. The exercises in OpenMP threading will primarily based on C++.
 
 ## Learning Objectives
 On successful completion of this module, students will be able to:
