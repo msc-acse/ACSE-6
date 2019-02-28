@@ -5,7 +5,7 @@
 
 int compute_primes(int amount, long min_value);
 
-int fffmain()
+int main()
 {
 	std::cerr << "\nMAX threads:" << omp_get_max_threads();
 	
