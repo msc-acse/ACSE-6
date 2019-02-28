@@ -21,9 +21,9 @@ On successful completion of this module, students will be able to:
 - Prof Stephen Neethling - Professor of Minerals Processing - Remaining classes, focused on MPI
 
 ## Lectures
-1. 25/2 Introduction to parallel programming [Slides1](ACSE6-Lecture1.pdf) [Code1](1main.cpp) (Adriana Paluszny) 
+1. 25/2 Introduction to parallel programming [Slides1](ACSE6-Lecture1.pdf) [Code1](1main.cpp) [Intel Slides](04_Programming_with_OpenMP.ppt) [OpenMP 5.0 API Spec](OpenMP-API-Specification-5.0.pdf) (Adriana Paluszny) 
 2. 26/2 OpenMP Introduction. [Slides2](ACSE6-Lecture2.pdf) [Code2](2openmp.cpp) [Code3](3openmp.cpp) (Adriana Paluszny)
-3. 28/2 OpenMP (Adriana Paluszny)
+3. 28/2 OpenMP [Slides3](ACSE6-Lecture3.pdf) [Code4](4openmp.cpp) [Code5](5openmp.cpp) [Code6](6openmp.cpp) [Code7](7openmp.cpp) (Adriana Paluszny)
 4. 1/3 OpenMP (Distributed between the two afternoons: 26/2 and 28/2) (Adriana Paluszny)
 5. MPI (Stephen Neethling)
 6. MPI (Stephen Neethling)
@@ -36,7 +36,9 @@ On successful completion of this module, students will be able to:
 
 ## Assessment
 Three equally weighted Assignments:
-- Assignment 1: [Assignment1](ACSE6-Assignment1.pdf) due March 4th ⚡️⚡️🤓
+- Assignment 1: [Assignment1](ACSE6-Assignment1.pdf) due *midnight* March 4th ⚡️⚡️🤓
+Register your group here: https://classroom.github.com/g/-WTEmg1K (same procedure as in ACSE-5, maximum 2 per group)
+
 - Assignment 2: due March 11th
 - Assignment 3: due March 18th
 
