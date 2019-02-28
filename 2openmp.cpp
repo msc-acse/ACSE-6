@@ -33,7 +33,7 @@ int compute_primes(int amount, long min_value)
 	return 0;
 }
 
-int tmain()
+int main()
 {
 	std::cout << "\nOMP: \n";
 	{
