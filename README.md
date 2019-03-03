@@ -29,6 +29,7 @@ On successful completion of this module, students will be able to:
 
 ### MPI 
 Note that these are divided by topic rather than physical lecture:
+
 0. Getting started with MPI on Windows and an HPI System [Slides](Lecture_0.pdf) [Example1](Example_1.cpp) (Stephen Neethling)
 1. Blocking Point to Point Communications [Slides1](Lecture_1.pdf) [Example2](Example_2.cpp) [Example3](Example_3.cpp) [Example4](Example_4.cpp) (Stephen Neethling)
 2. Non-blocking Point to Point Communications [Slides2](Lecture_2.pdf) [Example5](Example_5.cpp) [Example6](Example_6.cpp) [Example7](Example_7.cpp) (Stephen Neethling)
