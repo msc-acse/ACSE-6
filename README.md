@@ -21,18 +21,18 @@ On successful completion of this module, students will be able to:
 - Prof Stephen Neethling - Professor of Minerals Processing - Remaining classes, focused on MPI
 
 ## Lectures
+### OpenMP
 1. 25/2 Introduction to parallel programming [Slides1](ACSE6-Lecture1.pdf) - [Code1](1main.cpp) - [Intel Slides](04_Programming_with_OpenMP.ppt) - [OpenMP 5.0 API Spec](OpenMP-API-Specification-5.0.pdf) (Adriana Paluszny) 
 2. 26/2 OpenMP Introduction. [Slides2](ACSE6-Lecture2.pdf) - [Code2](2openmp.cpp) - [Code3](3openmp.cpp) (Adriana Paluszny)
 3. 28/2 OpenMP [Slides3](ACSE6-Lecture3.pdf) - [Code4](4openmp.cpp) - [Code5](5openmp.cpp) - [Code6](6openmp.cpp) - [Code7](7openmp.cpp) (Adriana Paluszny)
 4. 1/3 OpenMP (Distributed between the two afternoons: 26/2 and 28/2) (Adriana Paluszny)
-5. MPI (Stephen Neethling)
-6. MPI (Stephen Neethling)
-7. MPI (Stephen Neethling)
-8. MPI (Stephen Neethling)
-9. MPI (Stephen Neethling)
-10. MPI (Stephen Neethling)
-11. MPI (Stephen Neethling)
-12. MPI (Stephen Neethling)
+
+### MPI 
+Note that these are divided by topic rather than physical lecture
+0. Getting started with MPI on Windows and an HPI System [Slides](Lecture 0 - Getting started and the basics of MPI.pdf) (Stephen Neethling)
+1. Blocking Point to Point Communications [Slides1](Lecture 1 - Blocking Point to Point Communications.pdf) (Stephen Neethling)
+2. Non-blocking Point to Point Communications [Slides2](Lecture 2 - Non-blocking Point to Point Communications.pdf) (Stephen Neethling)
+3. Collective Communications [Slides3](Lecture 3 - Collective Communications.pdf)
 
 ## Assessment
 Three equally weighted Assignments:
