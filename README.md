@@ -29,10 +29,10 @@ On successful completion of this module, students will be able to:
 
 ### MPI 
 Note that these are divided by topic rather than physical lecture
-0. Getting started with MPI on Windows and an HPI System [Slides](Lecture 0 - Getting started and the basics of MPI.pdf) (Stephen Neethling)
-1. Blocking Point to Point Communications [Slides1](Lecture 1 - Blocking Point to Point Communications.pdf) (Stephen Neethling)
-2. Non-blocking Point to Point Communications [Slides2](Lecture 2 - Non-blocking Point to Point Communications.pdf) (Stephen Neethling)
-3. Collective Communications [Slides3](Lecture 3 - Collective Communications.pdf)
+0. Getting started with MPI on Windows and an HPI System [Slides](Lecture_0.pdf) (Stephen Neethling)
+1. Blocking Point to Point Communications [Slides1](Lecture_1.pdf) (Stephen Neethling)
+2. Non-blocking Point to Point Communications [Slides2](Lecture_2.pdf) (Stephen Neethling)
+3. Collective Communications [Slides3](Lecture_3.pdf)
 
 ## Assessment
 Three equally weighted Assignments:
