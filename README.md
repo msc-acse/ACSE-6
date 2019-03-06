@@ -43,6 +43,7 @@ Three equally weighted Assignments:
 - Assignment 1: [Assignment1](ACSE6-Assignment1.pdf) due *midnight* March 4th ⚡️⚡️🤓
 Register your group here: https://classroom.github.com/g/-WTEmg1K (same procedure as in ACSE-5, maximum 2 per group)
 
-- Assignment 2: due March 11th
+- Assignment 2: [Assignment](Assignment_1.docx) due March 11th
+
 - Assignment 3: due March 18th
 
