@@ -36,7 +36,7 @@ Solutions: [Exercise1_1](Exercise1_1.cpp) [Exercise1_2](Exercise1_2.cpp) [Exerci
 2. Non-blocking Point to Point Communications [Slides2](Lecture_2.pdf) [Example5](Example_5.cpp) [Example6](Example_6.cpp) [Example7](Example_7.cpp) [Worksheet2](Worksheet_2.docx) (Stephen Neethling)
 3. Collective Communications [Slides3](Lecture_3.pdf) [Example8](Example_8.cpp) [Example9](Example_9.cpp) [Example10](Example_10.cpp) [Worksheet3](Worksheet_3.docx) (Stephen Neethling) 
 4. Other MPI Topics [Slides4](Lecture_4.pdf) [Example11](Example_11.cpp) [Example12](Example_12.cpp) [Example13](Example_13.cpp) [Worksheet4](Worksheet_4.docx) (Stephen Neethling)
-5. Parallel Decomposition and Architectures
+5. Parallel Decomposition and Architectures [Slides5](Lecture_5.pdf) [Worksheet5](Worksheet_5.docx) (Stephen Neethling)
 6. A Domain Decomposition Example
 
 ## Assessment
