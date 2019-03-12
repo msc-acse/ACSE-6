@@ -38,9 +38,10 @@ Solutions: [Exercise2_1](Exercise2_1.cpp) [Exercise2_2](Exercise2_2.cpp) [Exerci
 3. Collective Communications [Slides3](Lecture_3.pdf) [Example8](Example_8.cpp) [Example9](Example_9.cpp) [Example10](Example_10.cpp) [Worksheet3](Worksheet_3.docx) (Stephen Neethling)
 Solutions: [Exercise3_1](Exercise3_1.cpp) [Exercise3_2](Exercise3_2.cpp) [Exercise3_3](Exercise3_3.cpp) [Exercise3_4](Exercise3_4.cpp)
 4. Other MPI Topics [Slides4](Lecture_4.pdf) [Example11](Example_11.cpp) [Example12](Example_12.cpp) [Example13](Example_13.cpp) [Worksheet4](Worksheet_4.docx) (Stephen Neethling)
+Solutions: [Exercise4_1](Exercise4_1.cpp) [Exercise4_2](Exercise4_2.cpp)
 5. Parallel Decomposition and Architectures [Slides5](Lecture_5.pdf) [Worksheet5](Worksheet_5.docx) (Stephen Neethling)
-Solutions: [Exercise5_2](Exercise5_2.cpp)
-6. A Domain Decomposition Example
+Solutions: [Exercise5_1](Exercise5_1.cpp) [Exercise5_2](Exercise5_2.cpp)
+6. A Domain Decomposition Example [Slides6](Lecture_6.pdf) [Example15](Example_15.cpp)
 
 ## Assessment
 Three equally weighted Assignments:
@@ -50,5 +51,6 @@ Register your group here: https://classroom.github.com/g/-WTEmg1K (same procedur
 - Assignment 2: [Assignment](Assignment_1.docx) due by midnight on March 11th
 Register yourself here: https://classroom.github.com/a/Uk72MEFy (Note that this is an individual assignment)
 
-- Assignment 3: due March 17th
+- Assignment 3: [Assignment](Assignment_2.docx) due by midnight on March 17th
+Register yourself here: https://classroom.github.com/a/HTFRCddO (Note that this is an individual assignment)
 
