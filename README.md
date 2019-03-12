@@ -35,9 +35,11 @@ Note that these are divided by topic rather than physical lecture:
 Solutions: [Exercise1_1](Exercise1_1.cpp) [Exercise1_2](Exercise1_2.cpp) [Exercise1_3a](Exercise1_3a.cpp) [Exercise1_3b](Exercise1_3b.cpp). Note that these are A solution to these problems, not THE solution. This is especially true of 1.3b.
 2. Non-blocking Point to Point Communications [Slides2](Lecture_2.pdf) [Example5](Example_5.cpp) [Example6](Example_6.cpp) [Example7](Example_7.cpp) [Worksheet2](Worksheet_2.docx) (Stephen Neethling)
 Solutions: [Exercise2_1](Exercise2_1.cpp) [Exercise2_2](Exercise2_2.cpp) [Exercise2_3](Exercise2_3.cpp)
-3. Collective Communications [Slides3](Lecture_3.pdf) [Example8](Example_8.cpp) [Example9](Example_9.cpp) [Example10](Example_10.cpp) [Worksheet3](Worksheet_3.docx) (Stephen Neethling) 
+3. Collective Communications [Slides3](Lecture_3.pdf) [Example8](Example_8.cpp) [Example9](Example_9.cpp) [Example10](Example_10.cpp) [Worksheet3](Worksheet_3.docx) (Stephen Neethling)
+Solutions: [Exercise3_1](Exercise3_1.cpp) [Exercise3_2](Exercise3_2.cpp) [Exercise3_3](Exercise3_3.cpp) [Exercise3_4](Exercise3_4.cpp)
 4. Other MPI Topics [Slides4](Lecture_4.pdf) [Example11](Example_11.cpp) [Example12](Example_12.cpp) [Example13](Example_13.cpp) [Worksheet4](Worksheet_4.docx) (Stephen Neethling)
 5. Parallel Decomposition and Architectures [Slides5](Lecture_5.pdf) [Worksheet5](Worksheet_5.docx) (Stephen Neethling)
+Solutions: [Exercise5_2](Exercise5_2.cpp)
 6. A Domain Decomposition Example
 
 ## Assessment
